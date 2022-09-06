@@ -1,0 +1,20 @@
+#logo{
+  width: 500px;
+  height: 200px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background-color: red;
+  
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0%;
+  width: 100vw;
+  height: 100vh;
+  background-color: #1e1e1e;
+}
